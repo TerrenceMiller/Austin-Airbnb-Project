@@ -34,9 +34,10 @@ The average price of properties is $346 but the max price is $10,000.
 I only kept properties with a price of $1000 or lower a night to get a clearer view of what the typical listing looks like.
 Used reviews to make sure that the quality of the listings for properties that accomodate 
 
-## Interesting findings
+## Findings and Summary
 
-Majority of properties range from $100 - $200 a night. 
+Majority of properties range from $100 - $200 a night.
+Most properties accomodate 2-6 people. (After 6 it is harder to find things in the 200 range.)
 March is the most expensive time of the year. (Most likely due to SXSW)
 Friday and Saturday are most expensive but not that different from the other days.
 
