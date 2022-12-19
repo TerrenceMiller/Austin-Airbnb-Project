@@ -22,7 +22,7 @@ Cleaned the data with both Excel and Python.
 
 Dataset has 74 different columns of data.
 I narrowed this down to id, neighbourhood, neighbourhood cleansed(zip code), latitude, longitude, property_type, room type,  
-accommodates, bathrooms_text, bedrooms, beds,amenities,price, minimum_nights, maximum_nights, and availability_365 \
+accommodates, bathrooms_text, bedrooms, beds,amenities,price, minimum_nights, maximum_nights, and availability_365 
 
 These are the areas I felt would be most important to someone thinking about becoming an Airbnb host with a property they have or aquiring a property to become a host.
 I ignored data related to the hosts of the properties and reviews for now.
